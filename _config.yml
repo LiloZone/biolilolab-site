@@ -1,0 +1,24 @@
+# Site
+title: BioLiloLab
+subtitle: Bioart in the tropics
+
+# URL
+domain: biolilolab.com
+url: https://biolilolab.com
+baseurl: /
+permalink: :title/
+include: ['_pages']
+
+# Build settings
+markdown: kramdown
+port: 4442
+future: true
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
