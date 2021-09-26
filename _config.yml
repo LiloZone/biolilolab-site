@@ -4,8 +4,8 @@ subtitle: Bioart in the tropics
 
 # URL
 domain: biolilolab.com
-url: https://biolilolab.com/en
-baseurl: /en
+url: https://biolilolab.com
+baseurl: /
 permalink: :title/
 include: ['_pages']
 
