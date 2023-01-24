@@ -76,12 +76,11 @@ q31:
 
 botaoComprar: Sign up
 
-videoChamada: Hora de saber de onde veio esta ideia de criar uma escola de tecnologia criativa
-videoChamada2: Aprendizagem para a vida!
+videoChamada: Time to know where the idea of a creative technology school came from
+videoChamada2: Learning for life!
 
-contatoChamada: Dúvidas, Angústias, Considerações?
+contatoChamada: Doubts, Anguishes, Considerations?
 contatoEmail: E-mail
-contatoFone: Telefone
-contatoEndereco: Endereço
-
+contatoFone: Phone
+contatoEndereco: Address
 ---

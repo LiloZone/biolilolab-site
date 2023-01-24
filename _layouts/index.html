@@ -483,63 +483,54 @@
 		</div>
 	</section>
 	<!-- Events -->
-	<section class="pt-105 pb-90 text-center showcase_9 bg-white" data-bg-src="i/back1.png"
-		data-bg-src-2x="i/back1.png">
+	<section class="pt-105 pb-90 text-center showcase_9 bg-white" data-bg-src="i/back6.png"
+		data-bg-src-2x="i/back6.png">
 		<div class="container px-xl-0">
 			<div class="row justify-content-center">
 				<div class="col-xl-8 col-lg-10">
-					<h2 class="small" data-aos="fade-down" data-aos-delay="0">
-						Próximos Eventos
+					<h2 class="small action-3" data-aos="fade-down" data-aos-delay="0">
+						{{page.titleEvents}}
 					</h2>
-					<div class="mt-15 mb-60 f-22 text-adaptive color-white" data-aos="fade-down" data-aos-delay="250">
-						The most important part of the Startup Framework is the samples.
-						<br>The samples form a set of 20 usable pages you can use as is or you can add new blocks from
-						UI Kit.
+					<div class="mt-15 mb-60 f-22 text-adaptive action-2" data-aos="fade-down" data-aos-delay="250">
+						{{page.textEvents}}
 					</div>
 				</div>
 			</div>
 			<div class="row align-items-stretch text-sm-left">
 				<div class="mb-30 col-md-6" data-aos="fade-down" data-aos-delay="0">
-					<a href="darwin.html">
-						<img src="i/orquestra_1.jpg" srcset="i/orquestra_1.jpg" alt=""
+					<a href="{{page.linkEvent1}}">
+						<img src="../i/{{page.imageEvent1}}" srcset="../i/{{page.imageEvent1}}" alt=""
 							class="w-full radius10 noradius_bottom">
 					</a>
 					<div class="w-full pb-30 px-35 radius10 noradius_top block">
-						<a href="darwin.html" class="link mt-25 mb-10 f-22 extrabold color-white">
-							Darwin's Conference - 04/02/23
+						<a href="{{page.linkEvent1}}" class="link mt-25 mb-10 f-22 extrabold action-2">
+							{{page.titleEvent1}}
 						</a>
-						<div class="text-adaptive color-white">
-							Palestras e encontro sobre Laboratório de cozinha.
+						<div class="text-adaptive action-2">
+							{{page.textEvent1}}
 						</div>
 						<div class="mt-15 f-14 semibold text-uppercase sp-20 action-2 tags">
-							<p class="link action-2 bold">
-								palestra
-							</p>
-							<p class="link action-2 bold">
-								showcase
+							<p class="action-1 bold">
+								{{page.tagsEvent1}}
 							</p>
 						</div>
 					</div>
 				</div>
 				<div class="mb-30 col-md-6" data-aos="fade-down" data-aos-delay="250">
-					<a href="orquestra.html">
-						<img src="i/orquestra_1.jpg" srcset="i/orquestra_1.jpg" alt=""
+					<a href="{{page.linkEvent2}}">
+						<img src="../i/{{page.imageEvent2}}g" srcset="../i/{{page.imageEvent2}}" alt=""
 							class="w-full radius10 noradius_bottom">
 					</a>
 					<div class="w-full pb-30 px-35 radius10 noradius_top block">
-						<a href="orquestra.html" class="link mt-25 mb-10 f-22 color-white extrabold">
-							Orquestra Simbiótica - Março
+						<a href="{{page.linkEvent2}}" class="link mt-25 mb-10 f-22 extrabold action-2">
+							{{page.titleEvent2}}
 						</a>
-						<div class="text-adaptive color-white">
-							Seja coautor de uma obra de arte biológico-digital. Uma vivência única que conecta arte,
-							ciência e tecnologia.
+						<div class="text-adaptive action-2">
+							{{page.textEvent2}}
 						</div>
 						<div class="mt-15 f-14 semibold text-uppercase sp-20 action-2 tags">
-							<p class="link action-2 bold">
-								workshop
-							</p>
-							<p class="link action-2 bold">
-								presencial
+							<p class="action-1 bold">
+								{{page.tagsEvent2}}
 							</p>
 						</div>
 					</div>
