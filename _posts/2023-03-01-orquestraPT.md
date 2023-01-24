@@ -42,12 +42,19 @@ especialistasTitulo: Especialistas
 
 especialista1Nome: Lina Lopes
 especialista1Bio: Artista tecnológica e consultora em inovação, prototipagem e interatividade. Fundadora do LILO.ZONE e do BioLiloLab.
+especialista1Foto: lina.jpg
 
 especialista2Nome: Eduardo Padilha
 especialista2Bio: Cientista, especialista em Biohacking e Open Science. Trabalha com Genética Molecular e Reparo de DNA desde os 13 anos de idade.
+especialista2Foto: eduardo.jpg
 
-especialista3Nome: Anais-karenin
-especialista3Bio: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+especialista3Nome: 
+especialista3Bio: 
+especialista3Foto: 
+
+especialista4Nome: 
+especialista4Bio: 
+especialista4Foto:
 
 lotesTitulo: Investimento
 lotesTexto: para uma oportunidade única de aprendizado imersivo
