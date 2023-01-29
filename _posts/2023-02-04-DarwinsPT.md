@@ -42,7 +42,7 @@ especialistasTitulo: Especialistas
 
 especialista1Nome: Eduardo Padilha
 especialista1Bio: Cientista e consultor, especialista em Biohacking e Open Science trabalhando com Genética Molecular e Reparo de DNA desde os 13 anos.
-especialista1Foto: eduardo.jpg
+especialista1Foto: Eduardo.jpg
 
 especialista2Nome: Maya Minder
 especialista2Bio: Membro do conselho Food Culture Days e co-presidente da Sociedade Suíça de Arte Mecatrônica.
@@ -50,7 +50,7 @@ especialista2Foto: maya.jpg
 
 especialista3Nome: Lina Lopes
 especialista3Bio: Artista tecnológico e consultor em inovação, prototipagem e interatividade. Fundadora do LILO.ZONE e do BioLiloLab.
-especialista3Foto: lina.jpg
+especialista3Foto: Lina.jpg
 
 especialista4Nome: Christian Ullmann
 especialista4Bio: Professor de design para sustentabilidade, inovação social e design estratégico.
