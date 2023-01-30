@@ -24,7 +24,7 @@ d4: The Round Table takes care of biomaterials and how science's place is in the
 
 aprendizadosTitulo: Schedule
 a1: 10h00 - Eduardo Padilha receive Maya Minder to talk about her experience between art, science and kitchen (in english)
-a2: 11h30 - Table Round with Lina Lopes and Christian Ulmann about biomaterials made with edible ingredients (in portuguese)
+a2: 11h00 - Table Round with Lina Lopes and Christian Ulmann about biomaterials made with edible ingredients (in portuguese)
 a3: Showcase of biomaterials
 a4: Beer and pizza
 a5: Presentation of the next event - The workshop <a href="orquestra-en.html" class="action-1">Symbiotic Orchestra</a>.

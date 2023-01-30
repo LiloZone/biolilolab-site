@@ -24,7 +24,7 @@ d4: A Mesa Redonda trata dos biomateriais e de como é o lugar da ciência na co
 
 aprendizadosTitulo: Cronograma
 a1: 10h00 - Eduardo Padilha recebe Maya Minder para falar sobre sua experiência entre arte, ciência e cozinha (em inglês)
-a2: 11h30 - Mesa Redonda com Lina Lopes e Christian Ulmann sobre biomateriais feitos com ingredientes comestíveis (em português)
+a2: 11h00 - Mesa Redonda com Lina Lopes e Christian Ulmann sobre biomateriais feitos com ingredientes comestíveis (em português)
 a3: Mostra de biomateriais
 a4: Cerveja e pizza
 a5: Apresentação do próximo evento - O workshop <a href="orquestra.html" class="action-1">Symbiotic Orchestra</a>.
