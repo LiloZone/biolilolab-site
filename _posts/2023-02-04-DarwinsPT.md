@@ -14,6 +14,7 @@ image: "darwins_1.jpg"
 
 tagline: Faça parte desta celebração global da biologia e seus entusiastas de pesquisa.
 botaoCompreAgora: Inscreva-se agora!
+linkBotao: https://docs.google.com/forms/d/e/1FAIpQLSc3fwl0fec3gy7zKm0IhNUvOn-gGPWubm6NJWUaZ67eY6SUYA/viewform
 
 descricaoTitulo: Descrição
 d1: Darwin é uma Conferência Internacional a ser realizada em fevereiro de 2023. Para tornar esta conferência mais acessível a todos e melhorar a experiência de nossos participantes, este ano a conferência será híbrida. Para saber mais sobre você pode conferir o <a href="https://thedarwin.in/" class="action-1">site do evento</a>. O BioLiloLab sediará como parte da equipe do Brasil a Darwin's Conference no dia 4 de fevereiro. O formato é híbrido e todos são bem-vindos. Estamos preparando uma palestra internacional, uma mesa redonda e um showcase. Além deste programa principal, nosso objetivo é aproveitar a oportunidade para reencontrar nossa comunidade e dar as boas-vindas a novos interesses.
@@ -63,16 +64,19 @@ lote1Titulo: Online
 valor1: Grátis
 q1: até 03 de fevereiro de 2023
 q11:
+linkBotao1: https://docs.google.com/forms/d/e/1FAIpQLSc3fwl0fec3gy7zKm0IhNUvOn-gGPWubm6NJWUaZ67eY6SUYA/viewform
 
 lote2Titulo: Presencial
 valor2: Grátis
 q2: até 03 de fevereiro de 2023
-q21: 
+q21:
+linkBotao2: https://docs.google.com/forms/d/e/1FAIpQLSc3fwl0fec3gy7zKm0IhNUvOn-gGPWubm6NJWUaZ67eY6SUYA/viewform
 
 lote3Titulo: Hybrid
 valor3: Grátis
 q3: até 03 de fevereiro de 2023
 q31: 
+linkBotao3: https://docs.google.com/forms/d/e/1FAIpQLSc3fwl0fec3gy7zKm0IhNUvOn-gGPWubm6NJWUaZ67eY6SUYA/viewform
 
 botaoComprar: Inscreva-se
 
