@@ -37,7 +37,7 @@ obs1: No need for prior knowledge;
 obs2: It's a free and hybrid event and Everybody is welcome to join us in the lab;
 obs3: If you are coming for the lab in person, pay attention for COVID protocols;
 obs4: It is recommended to wear comfortable clothes during the meetings;
-obsComum: After registration, the Lilo.Academy organization will keep in touch by email informing you about other pre-production instructions and news.
+obsComum: This event is supported by <a href="https://www.lilo.zone/" target=_blank>LILO.ZONE</a> and the <a href="https://learningvillage.com.br/" target=_blank>Learning Village</a>.
 
 especialistasTitulo: Experts
 

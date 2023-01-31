@@ -37,7 +37,7 @@ obs1: Não há necessidade de conhecimento prévio;
 obs2: É um evento gratuito e híbrido e todos são bem-vindos a se juntar a nós no laboratório;
 obs3: Caso venha para o laboratório presencial, fique atento aos protocolos COVID;
 obs4: Recomenda-se o uso de roupas confortáveis durante as reuniões;
-obsComum: Após a inscrição, a organização do Lilo.Academy manterá contato por e-mail informando sobre outras instruções de pré-produção e novidades.
+obsComum: Esse evento conta com o apoio do <a href="https://www.lilo.zone/" target=_blank>LILO.ZONE</a> e do <a href="https://learningvillage.com.br/" target=_blank>Learning Village</a>.
 
 especialistasTitulo: Especialistas
 
