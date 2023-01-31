@@ -53,9 +53,9 @@ especialista3Nome: Lina Lopes
 especialista3Bio: Artista tecnológico e consultor em inovação, prototipagem e interatividade. Fundadora do LILO.ZONE e do BioLiloLab.
 especialista3Foto: Lina.jpg
 
-especialista4Nome: Christian Ullmann
-especialista4Bio: Professor de design para sustentabilidade, inovação social e design estratégico.
-especialista4Foto: christian.jpg
+especialista4Nome: Learning Village
+especialista4Bio: Hub de inovação e tecnologia com foco em educação e desenvolvimento de pessoas da América Latina.
+especialista4Foto: learning-village-azul.svg
 
 lotesTitulo: Inscrição
 lotesTexto: 
