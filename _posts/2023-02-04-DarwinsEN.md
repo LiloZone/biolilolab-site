@@ -18,13 +18,13 @@ linkBotao: https://docs.google.com/forms/d/e/1FAIpQLSc3fwl0fec3gy7zKm0IhNUvOn-gG
 
 descricaoTitulo: Description
 d1: Darwin is an International Conference to be held in February 2023. To make this conference more accessible to everyone and improve our attendees' experience, this year the conference is going to be hybrid. To know more about you can check the <a href="https://thedarwin.in/" class="action-1">website of the event</a>. BioLiloLab will host as part of the Brazil team the Darwin's Conference on February 4th. The format is hybrid and everybody is welcome to join. We are preparing an international talk, a round table, and a showcase. Besides this main program, our goal is to take the opportunity to remeet our community and give welcome new interests.
-d2: The theme for this edition of Darwin's Conference at BioLiloLab is "Kitchen Laboratory". The first talk is online with the Swiss artist, Maya Minder. Everybody is invited to see the streaming from our place in Vila Madalena - São Paulo. After that, Lina Lopes and Christian Ulmann will present biomaterials projects and research. This round table will be presencial with live transmission.
+d2: The theme for this edition of Darwin's Conference at BioLiloLab is "Kitchen Laboratory". The first talk is online with the Swiss artist, Maya Minder. Everybody is invited to see the streaming from our place in Vila Madalena - São Paulo. After that, Lina Lopes and Paulina Cho will present biomaterials projects and research. This round table will be presencial with live transmission.
 d3: Our guest for the talk this yer is Maya Minder. "Cooking thus transforms us“, is a framework Maya Minder weaves like a strings through her work. Cooking serves her to reveal the metaphor of the human transformation of raw nature into cooked culture and she combines it to the evolutionary ideas of a symbiotic co-existence between plants, animals and humans.
 d4: The Round Table takes care of biomaterials and how science's place is in the kitchen. Lina Lopes will present "e-Table", an art project with edible paper and ink and the use of "Alginate Strings" to do crochet.
 
 aprendizadosTitulo: Schedule
 a1: 10h00 - Eduardo Padilha receive Maya Minder to talk about her experience between art, science and kitchen (in english)
-a2: 11h00 - Table Round with Lina Lopes about biomaterials made with edible ingredients (in portuguese)
+a2: 11h00 - Table Round with Lina Lopes and Paulina Cho on biomaterials made with edible ingredients and how to use them in the market (in portuguese)
 a3: Showcase of biomaterials
 a4: Beer and pizza
 a5: Presentation of the next event - The workshop <a href="orquestra-en.html" class="action-1">Symbiotic Orchestra</a>.
@@ -55,7 +55,7 @@ especialista3Foto: Lina.jpg
 
 especialista4Nome: Paulina Cho
 especialista4Bio: Paulina is passionate about creating holistic and sustainable solutions. She is currently working at Systemiq, supporting the company's growth in Latam.
-especialista4Foto: Paulina.svg
+especialista4Foto: Paulina.jpg
 
 lotesTitulo: Inscription
 lotesTexto: 

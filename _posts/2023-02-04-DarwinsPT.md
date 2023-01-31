@@ -18,13 +18,13 @@ linkBotao: https://docs.google.com/forms/d/e/1FAIpQLSc3fwl0fec3gy7zKm0IhNUvOn-gG
 
 descricaoTitulo: Descrição
 d1: Darwin é uma Conferência Internacional a ser realizada em fevereiro de 2023. Para tornar esta conferência mais acessível a todos e melhorar a experiência de nossos participantes, este ano a conferência será híbrida. Para saber mais sobre você pode conferir o <a href="https://thedarwin.in/" class="action-1">site do evento</a>. O BioLiloLab sediará como parte da equipe do Brasil a Darwin's Conference no dia 4 de fevereiro. O formato é híbrido e todos são bem-vindos. Estamos preparando uma palestra internacional, uma mesa redonda e um showcase. Além deste programa principal, nosso objetivo é aproveitar a oportunidade para reencontrar nossa comunidade e dar as boas-vindas a novos interesses.
-d2: O tema desta edição da Darwin's Conference no BioLiloLab é "Kitchen Laboratory". A primeira conversa é online com a artista suíça, Maya Minder. Todos estão convidados a assistir ao streaming do nosso sítio na Vila Madalena - São Paulo. Em seguida, Lina Lopes e Christian Ulmann apresentarão projetos e pesquisas em biomateriais. Esta mesa redonda será presencial com transmissão ao vivo.
+d2: O tema desta edição da Darwin's Conference no BioLiloLab é "Kitchen Laboratory". A primeira conversa é online com a artista suíça, Maya Minder. Todos estão convidados a assistir ao streaming do nosso sítio na Vila Madalena - São Paulo. Em seguida, Lina Lopes e Paulina Cho apresentarão projetos e pesquisas em biomateriais. Esta mesa redonda será presencial com transmissão ao vivo.
 d3: Nossa convidada para a palestra deste ano é Maya Minder. "Cozinhar assim nos transforma", é uma estrutura que Maya Minder tece como um fio através de seu trabalho. Cozinhar serve para ela revelar a metáfora da transformação humana da natureza crua em cultura cozida e ela a combina com as ideias evolutivas de um co-simbiótico. existência entre plantas, animais e humanos.
 d4: A Mesa Redonda trata dos biomateriais e de como é o lugar da ciência na cozinha. Lina Lopes apresentará "e-Table", um projeto de arte com papel e tinta comestível e o uso de "Cordas de Alginato" para fazer crochê.
 
 aprendizadosTitulo: Cronograma
 a1: 10h00 - Eduardo Padilha recebe Maya Minder para falar sobre sua experiência entre arte, ciência e cozinha (em inglês)
-a2: 11h00 - Mesa Redonda com Lina Lopes e Paulina Cho on biomaterials made with edible ingredients and how to use them in the market (em português)
+a2: 11h00 - Mesa Redonda com Lina Lopes e Paulina Cho Paulina Cho sobre biomateriais feitos com ingredientes comestíveis e como usar isso no mercado (em português)
 a3: Mostra de biomateriais
 a4: Cerveja e pizza
 a5: Apresentação do próximo evento - O workshop <a href="orquestra.html" class="action-1">Symbiotic Orchestra</a>.
@@ -55,7 +55,7 @@ especialista3Foto: Lina.jpg
 
 especialista4Nome: Paulina Cho
 especialista4Bio: Paulina é apaixonada por criar soluções holísticas e sustentáveis. Atualmente ela trabalha na Systemiq, apoiando o crescimento da empresa na América Latina.
-especialista4Foto: Paulina.svg
+especialista4Foto: Paulina.jpg
 
 lotesTitulo: Inscrição
 lotesTexto: 
