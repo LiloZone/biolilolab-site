@@ -53,9 +53,9 @@ especialista3Nome: Lina Lopes
 especialista3Bio: Technological artist and consultant in innovation, prototyping and interactivity. Founder of LILO.ZONE and BioLiloLab.
 especialista3Foto: Lina.jpg
 
-especialista4Nome: Learning Village
-especialista4Bio: Innovation and technology hub focused on education and development of people in Latin America.
-especialista4Foto: learning-village-azul.svg
+especialista4Nome: Paulina Cho
+especialista4Bio: Paulina is passionate about creating holistic and sustainable solutions. She is currently working at Systemiq, supporting the company's growth in Latam.
+especialista4Foto: Paulina.svg
 
 lotesTitulo: Inscription
 lotesTexto: 
