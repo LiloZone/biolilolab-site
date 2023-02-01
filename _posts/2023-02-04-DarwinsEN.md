@@ -23,8 +23,9 @@ d3: Our guest for the talk this yer is Maya Minder. "Cooking thus transforms usâ
 d4: The Round Table takes care of biomaterials and how science's place is in the kitchen. Lina Lopes will present "e-Table", an art project with edible paper and ink and the use of "Alginate Strings" to do crochet.
 
 aprendizadosTitulo: Schedule
-a1: 10h00 - Eduardo Padilha receive Maya Minder to talk about her experience between art, science and kitchen (in english)
-a2: 11h00 - Table Round with Lina Lopes and Paulina Cho on biomaterials made with edible ingredients and how to use them in the market (in portuguese)
+a1: 10h00 - Table Round with Lina Lopes and Paulina Cho on biomaterials made with edible ingredients and how to use them in the market (in portuguese)
+a2: 11h00 - Eduardo Padilha receive Maya Minder to talk about her experience between art, science and kitchen (in english)
+
 a3: Showcase of biomaterials
 a4: Beer and pizza
 a5: Presentation of the next event - The workshop <a href="orquestra-en.html" class="action-1">Symbiotic Orchestra</a>.

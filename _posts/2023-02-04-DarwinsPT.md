@@ -23,8 +23,8 @@ d3: Nossa convidada para a palestra deste ano é Maya Minder. "Cozinhar assim no
 d4: A Mesa Redonda trata dos biomateriais e de como é o lugar da ciência na cozinha. Lina Lopes apresentará "e-Table", um projeto de arte com papel e tinta comestível e o uso de "Cordas de Alginato" para fazer crochê.
 
 aprendizadosTitulo: Cronograma
-a1: 10h00 - Eduardo Padilha recebe Maya Minder para falar sobre sua experiência entre arte, ciência e cozinha (em inglês)
-a2: 11h00 - Mesa Redonda com Lina Lopes e Paulina Cho Paulina Cho sobre biomateriais feitos com ingredientes comestíveis e como usar isso no mercado (em português)
+a1: 10h00 - Mesa Redonda com Lina Lopes e Paulina Cho Paulina Cho sobre biomateriais feitos com ingredientes comestíveis e como usar isso no mercado (em português)
+a2: 11h00 - Eduardo Padilha recebe Maya Minder para falar sobre sua experiência entre arte, ciência e cozinha (em inglês)
 a3: Mostra de biomateriais
 a4: Cerveja e pizza
 a5: Apresentação do próximo evento - O workshop <a href="orquestra.html" class="action-1">Symbiotic Orchestra</a>.
