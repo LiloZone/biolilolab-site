@@ -13,6 +13,7 @@ image: "orquestra_1.jpg"
 
 tagline: A São Paulo que você nunca viu (e talvez não queira ver!)
 botaoCompreAgora: Compre agora!
+linkBotao: https://docs.google.com/forms/d/e/1FAIpQLSePKuaTSOKiexLDMQ6lJvy3XWuKkSJu-UynjBWbBej6ZAWCKQ/viewform?usp=sf_link
 
 descricaoTitulo: Descrição
 d1: Micro São Paulo é uma investigação diferente. É um detetivo que não usa lupa, mas que usa jaleco. Um mapa físico de São Paulo produzido em placas acrílicas com microorganismos coletados em todas as regiões da cidade.
@@ -60,16 +61,19 @@ lote1Titulo: Early Bid
 valor1: 500
 q1: até 05 de fevereiro de 2023
 q11: valor à vista
+linkBotao1: https://docs.google.com/forms/d/e/1FAIpQLSePKuaTSOKiexLDMQ6lJvy3XWuKkSJu-UynjBWbBej6ZAWCKQ/viewform?usp=sf_link
 
 lote2Titulo: Lote 1
 valor2: 800
 q2: até 10 de fevereiro de 2023
 q21: valor à vista
+linkBotao2: https://docs.google.com/forms/d/e/1FAIpQLSePKuaTSOKiexLDMQ6lJvy3XWuKkSJu-UynjBWbBej6ZAWCKQ/viewform?usp=sf_link
 
 lote3Titulo: Lote 2
 valor3: 1.000
 q3: a partir de 11 de fevereiro de 2023
 q31: valor à vista
+linkBotao3: https://docs.google.com/forms/d/e/1FAIpQLSePKuaTSOKiexLDMQ6lJvy3XWuKkSJu-UynjBWbBej6ZAWCKQ/viewform?usp=sf_link
 
 botaoComprar: Comprar
 
