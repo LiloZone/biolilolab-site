@@ -70,7 +70,7 @@ q21: valor à vista
 linkBotao2: https://docs.google.com/forms/d/e/1FAIpQLSePKuaTSOKiexLDMQ6lJvy3XWuKkSJu-UynjBWbBej6ZAWCKQ/viewform?usp=sf_link
 
 lote3Titulo: Lote 2
-valor3: 1.000
+valor3: 1000
 q3: a partir de 11 de fevereiro de 2023
 q31: valor à vista
 linkBotao3: https://docs.google.com/forms/d/e/1FAIpQLSePKuaTSOKiexLDMQ6lJvy3XWuKkSJu-UynjBWbBej6ZAWCKQ/viewform?usp=sf_link

@@ -58,20 +58,20 @@ lotesTitulo: Investimento
 lotesTexto: para uma oportunidade única de aprendizado imersivo
 
 lote1Titulo: Early Bid
-valor1: 500,00
+valor1: 500
 q1: até 05 de fevereiro de 2023
 q11: valor à vista
 linkBotao1: https://docs.google.com/forms/d/e/1FAIpQLSePKuaTSOKiexLDMQ6lJvy3XWuKkSJu-UynjBWbBej6ZAWCKQ/viewform?usp=sf_link
 
 
 lote2Titulo: Lote 1
-valor2: 800,00
+valor2: 800
 q2: até 10 de fevereiro de 2023
 q21: valor à vista
 linkBotao2: https://docs.google.com/forms/d/e/1FAIpQLSePKuaTSOKiexLDMQ6lJvy3XWuKkSJu-UynjBWbBej6ZAWCKQ/viewform?usp=sf_link
 
 lote3Titulo: Lote 2
-valor3: 1.000,00
+valor3: 1000
 q3: a partir de 11 de fevereiro de 2023
 q31: valor à vista
 linkBotao3: https://docs.google.com/forms/d/e/1FAIpQLSePKuaTSOKiexLDMQ6lJvy3XWuKkSJu-UynjBWbBej6ZAWCKQ/viewform?usp=sf_link
