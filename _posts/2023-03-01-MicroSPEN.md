@@ -1,6 +1,6 @@
 ---
 layout: evento
-permalink: '/microsp.html'
+permalink: '/microsp-en.html'
 
 botaoPT: "microsp.html"
 botaoEN: "microsp-en.html"
@@ -11,24 +11,22 @@ data2: 25/03/20 - 10H ÀS 17H
 
 image: "orquestra_1.jpg"
 
-tagline: A São Paulo que você nunca viu (e talvez não queira ver!)
+tagline: The São Paulo you've never seen (and maybe you don't want to see!)
 botaoCompreAgora: Compre agora!
 
 descricaoTitulo: Descrição
-d1: Micro São Paulo é uma investigação diferente. É um detetivo que não usa lupa, mas que usa jaleco.
-d2: O objetivo do projeto é a construção completa da obra, para posterior exposição em uma Galeria de Arte Digital, onde todos os colaboradores entram como coautores. A ideia foi concebida durante os encontros do grupo de estudos Microbiologia para Artistas do BioLiloLab, o laboratório de biohacking do LILO.ZONE. 
-d3: O projeto explora o crescimento de microorganismos coletados em estações de metrô de São Paulo, fixando-os em placas de Petri customizadas com fabricação digital e integradas a um sistema de computação que gera música. A estrutura da obra, que servirá de suporte para as placas, também será totalmente projetada e fabricada com corte a laser durante o processo. Cada microorganismo será responsável por um tipo de som e as placas de Petri poderão ser manuseadas pelo público na instalação para compor diferentes sinfonias.
+d1: Micro São Paulo é uma investigação diferente. É um detetivo que não usa lupa, mas que usa jaleco. Um mapa físico de São Paulo produzido em placas acrílicas com microorganismos coletados em todas as regiões da cidade.
+d2: Durante o processo criativo, vamos explorar o fazer do meio de cultura e a dinamica dos microorganismos. Questionando o espaco que cada grupo de seres ocupa em nosso planeta, e como essa ocupacao acontece no tempo organico e no tempo acelerado por intervencoes humanas. 
+d3: O projeto explora o crescimento de microorganismos coletados em diferentes bairros da cidade de Sao Paulo, fixando-os em placas de Petri customizadas com fabricação digital. A estrutura da obra, que servirá de suporte para as placas, também será totalmente projetada e fabricada com corte a laser durante o processo. As placas poderao ser manuseadas pelo publico como pecas de um quebra cabeca. 
 d4: Os encontros em semanas distintas garantem que o tempo biológico seja contabilizado no processo, para que os microorganismos possam se desenvolver em lindas colônias.
 
 aprendizadosTitulo: Aprendizados
 a1: Procedimentos de microbiologia para coleta, manuseio e crescimento de microorganismos em laboratório;
 a2: Fixação das colônias de microorganismos para explorações de bioarte;
 a3: Fabricação digital com corte a laser;
-a4: Sistemas de visão computacional para reconhecimento de padrões;
-a5: Softwares e protocolos de música eletrônica.
 
 publicoTitulo: Público-alvo
-publicoTexto: Artistas e interessados em geral em projetos de intersecção entre arte, ciência e tecnologia.
+publicoTexto: Artistas, cientistas e mentes curiosas interessadas na intersecção entre arte, ciência e tecnologia.
 
 obsTitulo: Observações
 obs1: Não há necessidade de conhecimentos prévios;
@@ -47,8 +45,8 @@ especialista2Nome: Eduardo Padilha
 especialista2Bio: Cientista, especialista em Biohacking e Open Science. Trabalha com Genética Molecular e Reparo de DNA desde os 13 anos de idade.
 especialista2Foto: eduardo.jpg
 
-especialista3Nome: 
-especialista3Bio: 
+especialista3Nome: Paulina Cho
+especialista3Bio: Entusiasta em materiais e design especulativo. Trabalha em projetos relacionados a crise climatica.
 especialista3Foto: 
 
 especialista4Nome: 
@@ -58,19 +56,19 @@ especialista4Foto:
 lotesTitulo: Investimento
 lotesTexto: para uma oportunidade única de aprendizado imersivo
 
-lote1Titulo: Lote 1
-valor1: 1.100,00
+lote1Titulo: Early Bid
+valor1: 500,00
 q1: até 05 de fevereiro de 2023
 q11: valor à vista
 
-lote2Titulo: Lote 2
-valor2: 1.200,00
-q2: até 24 de fevereiro de 2023
+lote2Titulo: Lote 1
+valor2: 800,00
+q2: até 10 de fevereiro de 2023
 q21: valor à vista
 
-lote3Titulo: Lote 3
-valor3: 1.300,00
-q3: a partir de 25 de fevereiro de 2023
+lote3Titulo: Lote 2
+valor3: 1.000,00
+q3: a partir de 11 de fevereiro de 2023
 q31: valor à vista
 
 botaoComprar: Comprar
